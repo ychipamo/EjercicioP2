@@ -1,2 +1,7 @@
 Creado por Yenny C2
+<<<<<<< HEAD
 Modificado por Yenny
+=======
+agrego texto de prueba 1 - hernan
+agrego texto de prueba 2 - hernan
+>>>>>>> 5ef02994c93609424f248a76ab6066d39a6905fb
